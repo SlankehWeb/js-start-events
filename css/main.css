@@ -1,0 +1,41 @@
+
+
+.box form{
+    position: relative;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%,-50%); 
+    border-style: solid;
+    border-radius: 25%;
+    width: 10em;
+    height: 10em;
+    padding: 5em;
+}
+
+input{
+position: absolute;
+border-style: solid;
+border-radius: 2em 2em;
+
+}
+
+button{
+position: absolute;
+border-style: solid;
+border-radius: 2em 2em;
+}
+
+#evaluatePig{
+    position: absolute;
+    left: 19em;
+}
+
+#evaluateForm{
+    position: absolute;
+    bottom: 5em;
+}
+
+select{
+    position: absolute;
+    bottom: 8em;
+}
